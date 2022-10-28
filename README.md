@@ -1,0 +1,2 @@
+- CA1: Implementing a message queuing system with ‫‪synchronous‬‬ and ‫‪asynchronous brokers and handling buffer overflow using Go language.
+- CA2: Implementing a system that reports nodes of a graph that have an odd number of weight for their edges using Hadoop and Java, and then using Spark and Scala.‬‬
