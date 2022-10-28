@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="graphHadoop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/graphHadoop_jar</output-path>
+    <root id="archive" name="graphHadoop.jar">
+      <element id="module-output" name="graphHadoop" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/common/hadoop-common-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-app-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.10.1-tests.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
